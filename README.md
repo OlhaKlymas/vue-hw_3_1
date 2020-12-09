@@ -1,4 +1,4 @@
-# vue-course
+# vue-hw_3_1
 
 ## Project setup
 ```
